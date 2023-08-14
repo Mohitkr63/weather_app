@@ -1,0 +1,21 @@
+.warning {
+  color: red;
+}
+
+.btn {
+  /* color : ; */
+  background-color: lightblue;
+  --bs-btn-padding-y: 0.25rem;
+  --bs-btn-padding-x: 0.5rem;
+  --bs-btn-font-size: 0.75rem;
+  border-radius: 10%;
+  margin: 10px;
+}
+.btn:hover {
+  background-color: blue;
+  --bs-btn-padding-y: 0.25rem;
+  --bs-btn-padding-x: 0.5rem;
+  --bs-btn-font-size: 0.75rem;
+  border-radius: 10%;
+  margin: 10px;
+}
